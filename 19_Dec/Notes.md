@@ -1,4 +1,3 @@
-##notes of class 19 Dec 
-
-* heading is like something important as it related to semantics 
-* in pre tag the text looks like tele type
+Step 1) initialize a queue 
+Step 2) push the root node to the queue
+Step 3) Checking if my root is empty or not 
